@@ -4,8 +4,8 @@ int main(){
 	int x2=10;
 	if (x1 > x2){
 		printf("x1 greater than x2");
+	} else{
 	}
-	if (x2 > x1){
 		printf("x2 greater than x1");
 	}
-}
+
